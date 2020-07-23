@@ -3,7 +3,7 @@
 This is an demo project used in the OpenClassrooms course on Git and GitHub.
 Course homepage:
 
-* [English version](https://openclassrooms.com/courses/manage-your-code-with-git-and-github)
+* [English version](https://openclassrooms.com)
 * [French version](https://openclassrooms.com/courses/gerer-son-code-avec-git-et-github)
 
 ## Contributing
@@ -13,3 +13,4 @@ Course homepage:
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
